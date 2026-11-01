@@ -1,0 +1,6 @@
+{
+  "name": "Code Quest: The Treasure Hunt",
+  "description": "An interactive adventure web game for first-year computer engineering students to solve C programming riddles and logic clues to uncover island treasure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
